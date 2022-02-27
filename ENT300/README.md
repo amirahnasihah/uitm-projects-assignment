@@ -12,7 +12,7 @@
 # 💼 Business Plan
 **Company Name:** Barfé Haircut ✂
 
-**About:** Barfe Haircut fills with various haircut services specifically focused on women and also consists with scalp treatment. Barfe Haircut with tagline `IT’S MORE THAN JUST A HAIRCUT.` Since Muslim women need some privacy that requires them to comply with the syariah therefore we would like to proposed this business to make it happen.
+**About:** Barber + Cafe, Barfe Haircut fills with various haircut services specifically focused on women and also provided with cafe inside. Barfe Haircut in cafe concept with tagline `IT’S MORE THAN JUST A HAIRCUT` to maximize satisfaction for the customers. Also, as Muslim women need some privacy that requires them to comply with the syariah therefore, we would like to proposed this business to make it happen.
 
 **Prepared By:** Amirah Nasihah, Nurshafina, Norshahirah, A'isyah
 
