@@ -1,6 +1,6 @@
 # UiTM Projects Assignment
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.uitm-projects-assignment&left_color=purple&right_color=yellow)
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=amirahnasihah.uitm-projects-assignment&left_color=purple&right_color=yellow)-->
 
 Some projects assignment made together with my group mate. Others are individual assignment. 👩‍🎓
 
