@@ -13,6 +13,8 @@ Most of the parts I in charged in editing or software uses.
 - [Lestari Perdana Sdn Bhd Payroll System](https://github.com/amirahnasihah/uitm-projects-assignment/tree/main/payroll-system-database-ms-access)
 - 📸 Screenshot of a project 
     ![Screenshot (264)](https://user-images.githubusercontent.com/89834315/148381848-76b9fc0d-0d2a-45d8-9dd5-d71d814709db.png)
+    
+    https://user-images.githubusercontent.com/89834315/169828872-b43449f1-4042-41e1-8f16-171912e4bb60.mp4
 
 <br>
 
