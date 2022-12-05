@@ -3,6 +3,8 @@
 Create mockups, wireframes and UI prototypes using pidoco online tools which built 
 for accouting software for the purpose of group assignment.
 
+Assignment made together with my group mate. kudos to them!👏
+
 Source: [pidoco](https://pidoco.com/en)
 
 
